@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Task-Management-System---Deploy/login/static/css/main.1081b4a9.css",
-    "main.js": "/Task-Management-System---Deploy/login/static/js/main.cd24b4c1.js",
-    "index.html": "/Task-Management-System---Deploy/login/index.html",
-    "main.1081b4a9.css.map": "/Task-Management-System---Deploy/login/static/css/main.1081b4a9.css.map",
-    "main.cd24b4c1.js.map": "/Task-Management-System---Deploy/login/static/js/main.cd24b4c1.js.map"
+    "main.css": "/Task-Management-System---Deploy/static/css/main.1081b4a9.css",
+    "main.js": "/Task-Management-System---Deploy/static/js/main.91044580.js",
+    "index.html": "/Task-Management-System---Deploy/index.html",
+    "main.1081b4a9.css.map": "/Task-Management-System---Deploy/static/css/main.1081b4a9.css.map",
+    "main.91044580.js.map": "/Task-Management-System---Deploy/static/js/main.91044580.js.map"
   },
   "entrypoints": [
     "static/css/main.1081b4a9.css",
-    "static/js/main.cd24b4c1.js"
+    "static/js/main.91044580.js"
   ]
 }
